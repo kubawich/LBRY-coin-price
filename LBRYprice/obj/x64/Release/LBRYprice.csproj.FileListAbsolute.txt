@@ -1,0 +1,10 @@
+c:\users\kuba\documents\visual studio 2017\Projects\LBRYprice\LBRYprice\bin\x64\Release\LBRYprice.exe.config
+c:\users\kuba\documents\visual studio 2017\Projects\LBRYprice\LBRYprice\bin\x64\Release\LBRYprice.exe
+c:\users\kuba\documents\visual studio 2017\Projects\LBRYprice\LBRYprice\bin\x64\Release\LBRYprice.pdb
+c:\users\kuba\documents\visual studio 2017\Projects\LBRYprice\LBRYprice\bin\x64\Release\HtmlAgilityPack.dll
+c:\users\kuba\documents\visual studio 2017\Projects\LBRYprice\LBRYprice\bin\x64\Release\HtmlAgilityPack.pdb
+c:\users\kuba\documents\visual studio 2017\Projects\LBRYprice\LBRYprice\bin\x64\Release\HtmlAgilityPack.xml
+c:\users\kuba\documents\visual studio 2017\Projects\LBRYprice\LBRYprice\obj\x64\Release\LBRYprice.csproj.CoreCompileInputs.cache
+c:\users\kuba\documents\visual studio 2017\Projects\LBRYprice\LBRYprice\obj\x64\Release\LBRYprice.exe
+c:\users\kuba\documents\visual studio 2017\Projects\LBRYprice\LBRYprice\obj\x64\Release\LBRYprice.pdb
+C:\Users\Kuba\documents\visual studio 2017\Projects\LBRYprice\LBRYprice\obj\x64\Release\LBRYprice.csprojResolveAssemblyReference.cache
