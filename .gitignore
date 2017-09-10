@@ -215,3 +215,5 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
+
+HtmlAgilityPack\.1\.5\.2-beta6/readme\.txt
